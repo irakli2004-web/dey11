@@ -1,0 +1,65 @@
+.box1{
+  justify-content: space-around;
+  display: flex;
+  
+}
+
+.g{
+  
+  margin-right: 20px;
+}
+.box2{
+  display: flex;
+  justify-content: center;
+}
+h2{
+  
+  justify-content: space-around;
+  display: flex;
+  width: 300px  ;
+}
+h3{
+  margin-top: 150px;
+  justify-content: space-around;
+  display: flex;
+  
+}
+.box3{
+  display: flex;
+  width: 300px;
+}
+h4{
+  display: flex;
+  margin: 50px;
+  width: 400px;
+}
+.box4{
+  margin-top: 100px;
+  display: flex;
+  flex-direction:row;
+  
+}
+.s{
+  flex-direction:row;
+  display:flexbox;
+ justify-content:center;
+ margin-left: 300px;
+ width: 3200px;
+}
+.f{
+  margin: 20px;
+}
+.box5{
+  flex-direction:row;
+  display:flex;
+ justify-content:center;
+}
+.box6{
+  
+  margin: 150px;
+ 
+  
+}
+.gg{
+  width: 1600px;
+}
